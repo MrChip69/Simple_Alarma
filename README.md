@@ -1,9 +1,5 @@
 # Simple_Alarma
 
-Una muy sencilla alarma que suena en x minutos.
-
-Gracias por desgargar.
-
 Su proposito, es que al iniciar el ejecutable, tu le pongas en cuantos minutos quieres que tu PC te de un recordatorio.
 
 Ej:
